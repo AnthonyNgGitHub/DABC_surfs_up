@@ -21,7 +21,7 @@ Statistical summary for December
 
 - In addition, the standard deviation of temperature ranges from 3.26 degrees in June to 3.75 degrees in December. This suggests that the the temperature for both months, on average, are within 4 degrees of the mean.  Indeed, even in December, the temperature is above 69 degrees for at least 75% of the time, which is great for surfing.
 
-- Lastly, for both June and December, the mean and median temperature are extremely close (74.9 and 75 for June; 71.04 and 71 for December). This suggests that the temperature are very evenly distrubuted with very few outliers skewing the temperature to either tails. In other words, "extreme tempearatures" like the min of 56 degrees in December and the max of 85 degrees in June are very rare occurances that have close to zero impact on the mean.
+- Lastly, for both June and December, the mean and median temperature are extremely close (74.9 and 75 for June; 71.04 and 71 for December). This suggests that the temperature are very evenly distrubuted with very few outliers skewing the temperature to either tails. In other words, "extreme temperatures" like the min of 56 degrees in December and the max of 85 degrees in June are very rare occurances that have close to zero impact on the mean.
 
 ## Summary:
 
