@@ -11,11 +11,11 @@ Below tables illustrate the statistical summary of the temperature of Oahu in th
 
 Statistical summary for June
 
-<img src="june_stats.PNG"></img>
+<img src="images/june_stats.PNG"></img>
 
 Statistical summary for December
 
-<img src="dec_stats.PNG"></img>
+<img src="images/dec_stats.PNG"></img>
 
 - As shown above, the average temperature in June and December range from 71 degrees to 75 degrees, which suggests that the fluctuation between seasons is mild and very suitable for both surfing and having ice cream all year-round.
 
@@ -32,23 +32,23 @@ Statistical summary for December
 
 Precipitation for June
 
-<img src="june_prcp.PNG"></img>
+<img src="images/june_prcp.PNG"></img>
 
 Precipitation for December
 
-<img src="dec_prcp.PNG"></img>
+<img src="images/dec_prcp.PNG"></img>
 
 
 - Choosing the best location is the key to success. The below summary by station for June and December would be helpful to determine which specific spot is the most suitable location on the island to open shop.
 
 Temperature summary by station for June
 
-<img src="june_by_station.PNG"></img>
+<img src="images/june_by_station.PNG"></img>
 
 Temperature summary by station for December
 
-<img src="dec_by_station.PNG"></img>
+<img src="images/dec_by_station.PNG"></img>
 
 Station locations
 
-<img src="station_location.PNG"></img>
+<img src="images/station_location.PNG"></img>
